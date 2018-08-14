@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Post 1",
-      photo": {
+      "photo": {
                 "url": "https://wilsonsons.zendesk.com/api/v2/attachments/1241948887.json",
                 "id": 1241948887,
                 "file_name": "IMG_1174.JPG"
