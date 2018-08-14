@@ -6,7 +6,15 @@
       "photo": {
                 "url": "https://wilsonsons.zendesk.com/api/v2/attachments/1241948887.json",
                 "id": 1241948887,
-                "file_name": "IMG_1174.JPG"
+                "file_name": "IMG_1174.JPG",
+                "thumbnails": [
+                {
+                        "url": "https://wilsonsons.zendesk.com/api/v2/attachments/1241948907.json",
+                        "id": 1241948907,
+                        "file_name": "IMG_1174_thumb.JPG",
+                        "inline": false
+                }
+                ]
               }
     }
   ],
